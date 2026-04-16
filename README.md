@@ -1,2 +1,0 @@
-# arturo-prime
-webs demos
